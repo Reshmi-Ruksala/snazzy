@@ -51,13 +51,7 @@ Live product updates and fast API communication using MERN stack.
 
 ---
 
-## 👥 Roles in the Project (Group Work)
-
-- **Chutte** – Shoe purchasing flow  
-- **Laksiri** – Product listing & management  
-- **Binada** – Order handling & delivery management  
-- **Selan** – Promotions & offers  
-- **Resy (You)** – Wishlist feature & customer interactions  
+  
 
 ---
 
